@@ -78,40 +78,23 @@ During all the plan read [The Phoenix Project](https://books.google.it/books/abo
 Session 3 - Continuous Delivery
 ===============================
 
-* Articoli e presentazioni
+* Articles and presentations:
+    * [Introduzione continuous Integration](http://www.martinfowler.com/articles/continuousIntegration.html)
+    * [Introduzione continuous Delivery](http://www.martinfowler.com/bliki/ContinuousDelivery.html)
+    * [AWS Code Deploy](http://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html)
     
 
-* [Introduzione continuous Integration](http://www.martinfowler.com/articles/continuousIntegration.html)
+* Videos:
+    * [Continuous Delivery on Java Projects](https://www.youtube.com/watch?v=Y6juAsiurO4)
+    * [Slide della presentazione](http://pt.slideshare.net/xpeppers/continuous-delivery-in-java)
+    * [Adopting Continuous Delivery](https://www.youtube.com/watch?v=ZLBhVEo1OG4)
     
-* [Introduzione continuous Delivery](http://www.martinfowler.com/bliki/ContinuousDelivery.html)
+* Books:
+    * Capitoli 1-3 Continuous Delivery
+    * Capitoli 3,4,5 Implementing Lean Software Development
     
-* [AWS Code Deploy](http://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html)
-    
-
-* Video
-    
-
-* [Continuous Delivery on Java Projects](https://www.youtube.com/watch?v=Y6juAsiurO4)
-    
-
-* [Slide della presentazione](http://pt.slideshare.net/xpeppers/continuous-delivery-in-java)
-    
-
-* [Adopting Continuous Delivery](https://www.youtube.com/watch?v=ZLBhVEo1OG4)
-    
-
-* Libri
-    
-
-* Capitoli 1-3 Continuous Delivery
-    
-* Capitoli 3,4,5 Implementing Lean Software Development
-    
-
-* Esercizi
-    
-
-* [Continuous Delivery jumpstart](https://docs.google.com/presentation/d/1TONDWUBCbHsH27pi1EMsx1wfWyWQRX4f-bPZAULRHNo/edit#slide=id.gb3550ec09_2_0)
+* Exercises:
+    * [Continuous Delivery jumpstart](https://docs.google.com/presentation/d/1TONDWUBCbHsH27pi1EMsx1wfWyWQRX4f-bPZAULRHNo/edit#slide=id.gb3550ec09_2_0)
     
 
 Session 4 - TDD & Containers
