@@ -36,73 +36,44 @@ During all the plan read [The Phoenix Project](https://books.google.it/books/abo
     * [Code School Try Ruby](https://www.codeschool.com/courses/try-ruby)
     * [Chef essentials](https://learn.chef.io/#/)
 
-Session 2 - Cloud Computing and AWS
-===================================
+## Session 2 - Cloud Computing and AWS
 
-* Articoli e presentazioni
-    
+* Articles and presentations:
 
-* [Configuration Synchronization](http://martinfowler.com/bliki/ConfigurationSynchronization.html)
-    
-* [Immutable Servers](http://martinfowler.com/bliki/ImmutableServer.html)
-    
+    * [Configuration Synchronization](http://martinfowler.com/bliki/ConfigurationSynchronization.html)
+    * [Immutable Servers](http://martinfowler.com/bliki/ImmutableServer.html)
+    * [Snow flake Server](http://martinfowler.com/bliki/SnowflakeServer.html)
+    * [Phoenix Server](http://martinfowler.com/bliki/PhoenixServer.html)
 
-* [Snow flake Server](http://martinfowler.com/bliki/SnowflakeServer.html)
-* [Phoenix Server](http://martinfowler.com/bliki/PhoenixServer.html)
+* Videos:
+    * [Amazon Web Services “Webinar Channel”](https://www.youtube.com/channel/UCT-nPlVzJI-ccQXlxjSvJmw)
+    * [Introduction to Amazon EC2](https://www.youtube.com/watch?v=A4V_QFLZgv4)
+    * [EC2 Masterclass](https://www.youtube.com/watch?v=jLVPqoV4YjU)
+    * [CloudFormation Masterclass](https://www.youtube.com/watch?v=6R44BADNJA8)
+    * [AWS re:Invent 2015 video](https://www.youtube.com/watch?v=ZBxWZ9bgd44)
+    * [AWS re:Invent 2014 Getting Started with AWS Lambda](https://www.youtube.com/watch?v=UFj27laTWQA)
 
-* Video
+* Book:
+    * Kanban in Action: Part 2 - the case study
+    * Capitoli 4-7 Extreme Programming Explained
     
+* Exercises:
+    * AWS Technical Essentials 
+    * [Infrastructure as code on AWS](https://github.com/xpeppers/infrastructure-as-code-on-aws)
+    * [Ansible get started](https://www.ansible.com/get-started)
+    * [Test Kitchen con Ansible](https://github.com/neillturner/kitchen-ansible)
+    * Replicate [Infrastructure as code on AWS](https://github.com/xpeppers/infrastructure-as-code-on-aws) with Ansible
 
-* [Amazon Web Services “Webinar Channel”](https://www.youtube.com/channel/UCT-nPlVzJI-ccQXlxjSvJmw)
-    
-
-* [Introduction to Amazon EC2](https://www.youtube.com/watch?v=A4V_QFLZgv4)
-    
-* [EC2 Masterclass](https://www.youtube.com/watch?v=jLVPqoV4YjU)
-    
-* [CloudFormation Masterclass](https://www.youtube.com/watch?v=6R44BADNJA8)
-    
-* [AWS re:Invent 2015 video](https://www.youtube.com/watch?v=ZBxWZ9bgd44)
-    
-* [AWS re:Invent 2014 Getting Started with AWS Lambda](https://www.youtube.com/watch?v=UFj27laTWQA)
-    
-
-* Libri
-    
-
-* Kanban in Action: Part 2 - the case study
-    
-* Capitoli 4-7 Extreme Programming Explained
-    
-
-* Esercizi
-    
-
-* AWS Technical Essentials 
-    
-* [Infrastructure as code on AWS](https://github.com/xpeppers/infrastructure-as-code-on-aws) 
-    
-* [Ansible get started](https://www.ansible.com/get-started)
-    
-
-* [Test Kitchen con Ansible](https://github.com/neillturner/kitchen-ansible)
-    
-
-* Replicare [Infrastructure as code on AWS](https://github.com/xpeppers/infrastructure-as-code-on-aws) usando Ansible
-    
-
-* Lambda and Serverless architecture
-
-* [AWS Lambda: How It Works ](http://docs.aws.amazon.com/lambda/latest/dg/lambda-introduction.html)
-* [AWS Serverless Multi-Tier Architectures](https://d0.awsstatic.com/whitepapers/AWS_Serverless_Multi-Tier_Architectures.pdf)
-* [AWS Lambda Documentation](https://aws.amazon.com/documentation/lambda/)
-
-* [AWS API gateway](https://aws.amazon.com/api-gateway/)
-* [Getting started with aws proxy](http://docs.aws.amazon.com/apigateway/latest/developerguide/getting-started-aws-proxy.html)
-* Identity and access management
-
-* [IAM Role](http://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles.html)
-* [What is IAM](http://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
+* AWS:
+    * Lambda and Serverless architecture
+        * [AWS Lambda: How It Works](http://docs.aws.amazon.com/lambda/latest/dg/lambda-introduction.html)
+        * [AWS Serverless Multi-Tier Architectures](https://d0.awsstatic.com/whitepapers/AWS_Serverless_Multi-Tier_Architectures.pdf)
+        * [AWS Lambda Documentation](https://aws.amazon.com/documentation/lambda/)
+    * [AWS API gateway](https://aws.amazon.com/api-gateway/)
+    * [Getting started with aws proxy](http://docs.aws.amazon.com/apigateway/latest/developerguide/getting-started-aws-proxy.html)
+    * Identity and access management
+        * [IAM Role](http://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles.html)
+        * [What is IAM](http://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
 
 Session 3 - Continuous Delivery
 ===============================
