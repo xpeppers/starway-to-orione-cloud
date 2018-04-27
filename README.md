@@ -100,122 +100,59 @@ Session 3 - Continuous Delivery
 Session 4 - TDD & Containers
 ============================
 
-* Articoli presentazioni
-    
+* Articles and presentations:
+    * TDD sull’infrastruttura
+    * [Docker get started](https://docs.docker.com/mac/)
+    * [Docker on AWS](https://d0.awsstatic.com/whitepapers/docker-on-aws.pdf)
+* Books:
+    * Part 1 TDD by Example
+    * Chapters 5-7 Test-Driven Infrastructure with Chef
+* Videos:
+    * [Introduction to docker](https://training.docker.com/introduction-to-docker)
+* Exercises:
+    * Docker
 
-* TDD sull’infrastruttura
-    
-* [Docker get started](https://docs.docker.com/mac/)
-    
-* [Docker on AWS](https://d0.awsstatic.com/whitepapers/docker-on-aws.pdf)
-    
+## Extra references
 
-* Libri
-    
-
-* Part 1 TDD by Example
-    
-* Capitoli 5-7 Test-Driven Infrastructure with Chef
-    
-
-* Video
-    
-
-* [Introduction to docker](https://training.docker.com/introduction-to-docker)
-    
-
-* Esercizi
-    
-
-* [Docker corso base](https://docs.google.com/document/d/1sSG3CdlkSLLEp-FpdSbX4B2iYUNvJe-EGh-dEwsCPCU/edit) (da preparare)
-    
-
-  
-
-.
-
-Ulteriori riferimenti
-=====================
-
-AWS
----
-
+#### AWS
 * [AWS Overview](https://d36cz9buwru1tt.cloudfront.net/AWS_Overview.pdf)
-    
 * [Managing Your AWS Infrastructure at Scale](https://d0.awsstatic.com/whitepapers/managing-your-aws-infrastructure-at-scale.pdf)
-    
 * [Amazon Web Services in Actions](http://www.amazon.com/dp/1617292885/ref=rdr_ext_tmb) \- Capitoli 4-5
-    
 * [Introduction to DevOps on AWS](https://d0.awsstatic.com/whitepapers/AWS_DevOps.pdf)
-    
 * [DevOps at Amazon](https://www.youtube.com/watch?v=esEFaY0FDKc)
-    
 * [CodeDeploy](https://www.youtube.com/watch?v=A4NSyUbAEkw)
-    
 * [AWS Cloudformation User Guide](http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-ug.pdf)
-    
 * [AWS CLoudformation BestPractices](https://www.youtube.com/watch?v=fVMlxJJNmyA)
-    
 * [Deep-Dive in to Blue/Green Deployment](https://www.youtube.com/watch?v=aX54mhZbN58)
-    
 * [AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/awseb-dg.pdf)
-    
 * [Scaling Your Application with EB](https://www.youtube.com/watch?v=nkj0GXgaRv8)
-    
 * [AWS ECS](http://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-dg.pdf)
-    
 * [ECS Deployment](https://www.youtube.com/watch?v=o4w8opVCI-Q&list=PLhr1KZpdzukeH9VMPbNHMCXl_NrVc1JGe&index=6)
-    
 * [Docker on AWS](https://d0.awsstatic.com/whitepapers/docker-on-aws.pdf)
-    
 * [Next-Generation Application with ECS](https://www.youtube.com/watch?v=xIc3WT6kAVw)
     
-
-  
-
-Sul web
--------
-
-* DevOps bookmarks: Discover tools and frameworks in the DevOps landscape [http://www.devopsbookmarks.com/](http://www.devopsbookmarks.com/)
-    
-* High Scalability - [http://highscalability.com/](http://highscalability.com/)
-    
-* Dev2Ops - [http://dev2ops.org/](http://dev2ops.org/)
-    
-* CodeAsCraft - [https://codeascraft.com/](https://codeascraft.com/) (blog dei devops di Etsy)
-    
-* Netflix Techblog [http://techblog.netflix.com/](http://techblog.netflix.com/)
-    
-* Aphyr - [https://aphyr.com/](https://aphyr.com/)
+#### Web
+* [DevOps bookmarks Discover tools and frameworks in the DevOps landscape](http://www.devopsbookmarks.com/)
+* [High Scalability](http://highscalability.com/)
+* [Dev2Ops](http://dev2ops.org/)
+* [CodeAsCraft](https://codeascraft.com/) (blog dei devops di Etsy)
+* [Netflix Techblog](http://techblog.netflix.com/)
+* [Aphyr](https://aphyr.com/)
     
 
-Podcast
--------
-
-* Food Fight [http://foodfightshow.org/](http://foodfightshow.org/)
-    
-* The Ship Show [http://theshipshow.com/](http://theshipshow.com/)
-    
-* DevOps Cafe [http://devopscafe.org/](http://devopscafe.org/)
-    
-* SE Radio Episode 221: Jez Humble on Continuous Delivery [http://www.se-radio.net/2015/02/episode-221-jez-humble-on-continuous-delivery/](http://www.se-radio.net/2015/02/episode-221-jez-humble-on-continuous-delivery/)
-    
-* Arrested DevOps [http://www.arresteddevops.com/](http://www.arresteddevops.com/)
-    
-* Sysadmin Casts [https://sysadmincasts.com/](https://sysadmincasts.com/)
+#### Podcast
+* [Food Fight](http://foodfightshow.org/)
+* [The Ship Show](http://theshipshow.com/)
+* [DevOps Cafe](http://devopscafe.org/)
+* [SE Radio Episode 221: Jez Humble on Continuous Delivery](http://www.se-radio.net/2015/02/episode-221-jez-humble-on-continuous-delivery/)
+* [Arrested DevOps](https://sysadmincasts.com/)
     
 
-Libri
------
+#### Books
 
-* The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win [http://www.amazon.it/The-Phoenix-Project-Helping-Business/dp/0988262592](http://www.amazon.it/The-Phoenix-Project-Helping-Business/dp/0988262592)
-    
-* Web Operations Keeping the Data On Time [http://www.amazon.com/Web-Operations-Keeping-Data-Time-ebook/dp/B0043M4Z34](http://www.amazon.com/Web-Operations-Keeping-Data-Time-ebook/dp/B0043M4Z34)
-    
-* Release It! ([https://pragprog.com/book/mnee/release-it](https://pragprog.com/book/mnee/release-it))
-    
-* Building Microservices  [http://shop.oreilly.com/product/0636920033158.do](http://shop.oreilly.com/product/0636920033158.do)
-    
-* aws lambda in action: [https://manning-content.s3.amazonaws.com/download/2/21876e3-e4f1-4e3b-a842-ed68253b156d/Poccia\_AWSLambda\_MEAP\_V01\_ch1.pdf](https://manning-content.s3.amazonaws.com/download/2/21876e3-e4f1-4e3b-a842-ed68253b156d/Poccia_AWSLambda_MEAP_V01_ch1.pdf)
-    
-* Ansible Up And Running (in particolare capitoli 4, 5, 6, 8)
+* [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](http://www.amazon.it/The-Phoenix-Project-Helping-Business/dp/0988262592)
+* [Web Operations Keeping the Data On Time](http://www.amazon.com/Web-Operations-Keeping-Data-Time-ebook/dp/B0043M4Z34)
+* [Release It!](https://pragprog.com/book/mnee/release-it)
+* [Building Microservices](http://shop.oreilly.com/product/0636920033158.do)
+* [aws lambda in action](https://manning-content.s3.amazonaws.com/download/2/21876e3-e4f1-4e3b-a842-ed68253b156d/Poccia_AWSLambda_MEAP_V01_ch1.pdf)
+* [Ansible Up And Running](http://shop.oreilly.com/product/0636920065500.do)
