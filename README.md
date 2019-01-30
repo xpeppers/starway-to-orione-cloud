@@ -13,6 +13,9 @@ During all the plan read [The Phoenix Project](https://books.google.it/books/abo
 
 * Articles and presentations:
 
+    * [The Incredible True Story of How DevOps Got Its Name](https://blog.newrelic.com/engineering/devops-name/)
+    * [Slides of 10+ Deploys Per Day: Dev and Ops Cooperation at Flickr](https://www.slideshare.net/jallspaw/10-deploys-per-day-dev-and-ops-cooperation-at-flickr)
+    * [What is this devops thing anyway/](http://www.jedi.be/blog/2010/02/12/what-is-this-devops-thing-anyway/)
     * [DevOps / Infrastructure as Code](https://docs.google.com/presentation/d/1Xkr2ioe6cXD9jFM9ETRCm4e-NPoLi_54n_u1yCgHAA4/edit#slide=id.g9b7ec55c6_0_0)
     * [What is this devops thing anyway](http://www.jedi.be/blog/2010/02/12/what-is-this-devops-thing-anyway/)
     * [10 practices for effective devops](http://www.drdobbs.com/architecture-and-design/top-10-practices-for-effective-devops/240149363)
@@ -29,6 +32,7 @@ During all the plan read [The Phoenix Project](https://books.google.it/books/abo
 
     * [10+ Deploys Per Day: Dev and Ops Cooperation at Flickr](https://www.youtube.com/watch?v=LdOe18KhtT4)
     * [Stop Hiring DevOps Experts and Start Growing Them](https://www.youtube.com/watch?v=6m9nCtyn6kE)
+    * [The Short History of DevOps](https://www.youtube.com/watch?v=o7-IuYS0iSE)
     
 
 * Exercises
