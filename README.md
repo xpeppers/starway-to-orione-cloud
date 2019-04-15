@@ -2,6 +2,8 @@
 
 Coast is the **C**loud **O**peration and **S**upport **T**eam
 
+## DevOps
+
 This is the learning path every new cloud engineer has to follow when joining the XPeppers Cloud team.
 This path reflects our team's culture and values, which have their roots in the [agile values and principles](http://agilemanifesto.org/).
 
@@ -9,7 +11,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 
 During all the plan read [The Phoenix Project](https://books.google.it/books/about/The_Phoenix_Project.html?id=qaRODgAAQBAJ).
 
-## Session 1 - What is DevOps?
+### Session 1 - What is DevOps?
 
 * Articles and presentations:
 
@@ -21,26 +23,26 @@ During all the plan read [The Phoenix Project](https://books.google.it/books/abo
     * [10 practices for effective devops](http://www.drdobbs.com/architecture-and-design/top-10-practices-for-effective-devops/240149363)
     * [Deployment is just a part of dev/ops cooperation, not the whole thing](http://www.kitchensoap.com/2009/12/12/devops-cooperation-doesnt-just-happen-with-deployment/)
     * [There’s No Such Thing as a “Devops Team”](http://continuousdelivery.com/2012/10/theres-no-such-thing-as-a-devops-team/)
-    
 
-* Book: 
+
+* Book:
     * [Pomodoro technique](https://francescocirillo.com/products/the-pomodoro-technique)
     * Chapter 2 [Implementing Lean Software Development](https://www.amazon.it/Implementing-Lean-Software-Development-Addison-Wesley-ebook/dp/B00HNB3VQE)
     * Chaters 1-3 of [Extreme Programming] Explained(https://www.amazon.it/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
-    
+
 * Video
 
     * [10+ Deploys Per Day: Dev and Ops Cooperation at Flickr](https://www.youtube.com/watch?v=LdOe18KhtT4)
     * [Stop Hiring DevOps Experts and Start Growing Them](https://www.youtube.com/watch?v=6m9nCtyn6kE)
     * [The Short History of DevOps](https://www.youtube.com/watch?v=o7-IuYS0iSE)
-    
+
 
 * Exercises
     * [Code School Try Git](https://try.github.io/levels/1/challenges/1)
     * [Code School Try Ruby](https://www.codeschool.com/courses/try-ruby)
     * [Chef essentials](https://learn.chef.io/#/)
 
-## Session 2 - Cloud Computing and AWS
+### Session 2 - Cloud Computing and AWS
 
 * Articles and presentations:
 
@@ -60,9 +62,9 @@ During all the plan read [The Phoenix Project](https://books.google.it/books/abo
 * Book:
     * Kanban in Action: Part 2 - the case study
     * Capitoli 4-7 Extreme Programming Explained
-    
+
 * Exercises:
-    * AWS Technical Essentials 
+    * AWS Technical Essentials
     * [Infrastructure as code on AWS](https://github.com/xpeppers/infrastructure-as-code-on-aws)
     * [Ansible get started](https://www.ansible.com/get-started)
     * [Test Kitchen con Ansible](https://github.com/neillturner/kitchen-ansible)
@@ -79,30 +81,27 @@ During all the plan read [The Phoenix Project](https://books.google.it/books/abo
         * [IAM Role](http://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles.html)
         * [What is IAM](http://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
 
-Session 3 - Continuous Delivery
-===============================
+### Session 3 - Continuous Delivery
 
 * Articles and presentations:
     * [Introduzione continuous Integration](http://www.martinfowler.com/articles/continuousIntegration.html)
     * [Introduzione continuous Delivery](http://www.martinfowler.com/bliki/ContinuousDelivery.html)
     * [AWS Code Deploy](http://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html)
-    
+
 
 * Videos:
     * [Continuous Delivery on Java Projects](https://www.youtube.com/watch?v=Y6juAsiurO4)
     * [Slide della presentazione](http://pt.slideshare.net/xpeppers/continuous-delivery-in-java)
     * [Adopting Continuous Delivery](https://www.youtube.com/watch?v=ZLBhVEo1OG4)
-    
+
 * Books:
     * Capitoli 1-3 Continuous Delivery
     * Capitoli 3,4,5 Implementing Lean Software Development
-    
+
 * Exercises:
     * [Continuous Delivery jumpstart](https://docs.google.com/presentation/d/1TONDWUBCbHsH27pi1EMsx1wfWyWQRX4f-bPZAULRHNo/edit#slide=id.gb3550ec09_2_0)
-    
 
-Session 4 - TDD & Containers
-============================
+### Session 4 - TDD & Containers
 
 * Articles and presentations:
     * TDD sull’infrastruttura
@@ -116,9 +115,12 @@ Session 4 - TDD & Containers
 * Exercises:
     * Docker
 
+## Serverless
+
+
 ## Extra references
 
-#### AWS
+### AWS
 * [AWS Overview](https://d36cz9buwru1tt.cloudfront.net/AWS_Overview.pdf)
 * [Managing Your AWS Infrastructure at Scale](https://d0.awsstatic.com/whitepapers/managing-your-aws-infrastructure-at-scale.pdf)
 * [Amazon Web Services in Actions](http://www.amazon.com/dp/1617292885/ref=rdr_ext_tmb) \- Capitoli 4-5
@@ -134,25 +136,25 @@ Session 4 - TDD & Containers
 * [ECS Deployment](https://www.youtube.com/watch?v=o4w8opVCI-Q&list=PLhr1KZpdzukeH9VMPbNHMCXl_NrVc1JGe&index=6)
 * [Docker on AWS](https://d0.awsstatic.com/whitepapers/docker-on-aws.pdf)
 * [Next-Generation Application with ECS](https://www.youtube.com/watch?v=xIc3WT6kAVw)
-    
-#### Web
+
+### Web
 * [DevOps bookmarks Discover tools and frameworks in the DevOps landscape](http://www.devopsbookmarks.com/)
 * [High Scalability](http://highscalability.com/)
 * [Dev2Ops](http://dev2ops.org/)
 * [CodeAsCraft](https://codeascraft.com/) (blog dei devops di Etsy)
 * [Netflix Techblog](http://techblog.netflix.com/)
 * [Aphyr](https://aphyr.com/)
-    
 
-#### Podcast
+
+### Podcast
 * [Food Fight](http://foodfightshow.org/)
 * [The Ship Show](http://theshipshow.com/)
 * [DevOps Cafe](http://devopscafe.org/)
 * [SE Radio Episode 221: Jez Humble on Continuous Delivery](http://www.se-radio.net/2015/02/episode-221-jez-humble-on-continuous-delivery/)
 * [Arrested DevOps](https://sysadmincasts.com/)
-    
 
-#### Books
+
+### Books
 
 * [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](http://www.amazon.it/The-Phoenix-Project-Helping-Business/dp/0988262592)
 * [Web Operations Keeping the Data On Time](http://www.amazon.com/Web-Operations-Keeping-Data-Time-ebook/dp/B0043M4Z34)
