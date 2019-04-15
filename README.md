@@ -101,7 +101,8 @@ During all the plan read [The Phoenix Project](https://books.google.it/books/abo
 * Exercises:
     * [Continuous Delivery jumpstart](https://docs.google.com/presentation/d/1TONDWUBCbHsH27pi1EMsx1wfWyWQRX4f-bPZAULRHNo/edit#slide=id.gb3550ec09_2_0)
 
-### Session 4 - TDD & Containers
+
+### Session 4 - TDD & Containers
 
 * Articles and presentations:
     * TDD sull’infrastruttura
@@ -187,7 +188,8 @@ During all the plan read [The Phoenix Project](https://books.google.it/books/abo
   * [Serverless Architectures on AWS](https://www.amazon.it/Serverless-Architectures-Patrick-Ferguson-Sbarski/dp/9386052105)
   * [AWS Lambda in Actions](https://www.amazon.it/AWS-Lambda-Action-Event-Driven-Applications/dp/1617293717/)
 
-### Session 4 - CI/CD
+
+### Session 4 - CI/CD
 
 * Articles and presentations:
   * [CodePipeline](https://aws.amazon.com/codepipeline/getting-started/?nc=sn&loc=4)
