@@ -117,6 +117,81 @@ During all the plan read [The Phoenix Project](https://books.google.it/books/abo
 
 ## Serverless
 
+### Session 1 - Cloud Computing and AWS
+
+* Articles and presentations:
+
+    * [Overview of AWS](https://docs.aws.amazon.com/aws-technical-content/latest/aws-overview/introduction.html)
+    * [Identity and Acess Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
+    * [VPC](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
+    * [Amazon EC2 Foundation](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html)
+    * [Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/gsg/GetStartedWithS3.html)
+
+* Videos:
+    * [Cloud Practitioner Essentials](https://www.aws.training/learningobject/curriculum?id=27076&scr=path-cp)
+    * [Amazon EC2 Foundation](https://www.youtube.com/watch?v=vXBeO9vQAI8)
+    * [Amazon S3 Masterclass](https://www.youtube.com/watch?v=VC0k-noNwOU)
+
+* Books:
+  * [Amazon Web Services for Mobile Developer](https://www.amazon.it/Amazon-Web-Services-Mobile-Developers/dp/1119377854)
+
+* Tools:
+  * [Boto3](https://github.com/boto/boto3)
+
+### Session 2 - Containers
+
+* Articles and presentations:
+  * [Amazon ECR](https://docs.aws.amazon.com/en_us/AmazonECR/latest/userguide/ECR_GetStarted.html)
+  * [Amazon ECS Getting Started](https://aws.amazon.com/it/ecs/getting-started/)
+    * Concetti fondamentali
+    * Istruzioni dettagliate
+    * Architetture di riferimento
+  * [Deploy Kubernetes App on frameworks](https://aws.amazon.com/getting-started/projects/deploy-kubernetes-app-amazon-eks/)
+  * [App Mesh Getting Started](https://aws.amazon.com/it/app-mesh/getting-started/)
+  * [AWS Cloud Map](https://aws.amazon.com/it/cloud-map/)
+
+
+* Videos:
+  * [Deep Dive on ECS](https://www.youtube.com/watch?v=qbEPae8YNbs)
+  * [Amazon EKS](https://www.youtube.com/watch?v=lef1qR7C_GE)
+
+* Workshop
+  * [Deploy Container Docker](https://aws.amazon.com/it/getting-started/tutorials/deploy-docker-containers/)
+  * [Workshop Amazon EKS Microservices](https://eksworkshop.com/)
+  * [Deploy Kubernetes Apps](https://aws.amazon.com/it/getting-started/projects/deploy-kubernetes-app-amazon-eks/)
+
+### Session 3 - Cloud Native and Serverless Architectures
+
+* Articles and presentations:
+
+  * [Cloud Native 1](https://www.oreilly.com/library/view/cloud-native-infrastructure/9781491984291/ch01.html)
+  * [Cloud Native 2](https://medium.com/walmartlabs/cloud-native-application-architecture-a84ddf378f82)
+  * [AWS Cloud Native](https://aws.amazon.com/it/blogs/opensource/cloud-native-computing/)
+
+  * [Serverless Architectures](https://d1.awsstatic.com/whitepapers/serverless-architectures-with-aws-lambda.pdf)
+  * [AWS Lambda: How It Works](http://docs.aws.amazon.com/lambda/latest/dg/lambda-introduction.html)
+  * [AWS Serverless Multi-Tier Architectures](https://d0.awsstatic.com/whitepapers/AWS_Serverless_Multi-Tier_Architectures.pdf)
+  * [AWS Lambda Documentation](https://aws.amazon.com/documentation/lambda/)
+  * [AWS API gateway](https://aws.amazon.com/api-gateway/)
+  * [Getting started with aws proxy](http://docs.aws.amazon.com/apigateway/latest/developerguide/getting-started-aws-proxy.html)
+  * [IAM Role](http://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles.html)
+  * [Identity Federation](https://aws.amazon.com/identity/federation/)
+
+* Video:
+
+  * [Cloud Native](https://www.youtube.com/watch?v=5U-6sxR5DaQ)
+  * [Cloud Native Enterprise](https://www.youtube.com/watch?v=hVmy-JiP9lI)
+  * [AWS re:Invent 2014 Getting Started with AWS Lambda](https://www.youtube.com/watch?v=UFj27laTWQA)
+
+* Book:
+  * [Serverless Architectures on AWS](https://www.amazon.it/Serverless-Architectures-Patrick-Ferguson-Sbarski/dp/9386052105)
+  * [AWS Lambda in Actions](https://www.amazon.it/AWS-Lambda-Action-Event-Driven-Applications/dp/1617293717/)
+
+### Session 4 - CI/CD
+
+* Articles and presentations:
+  * [CodePipeline](https://aws.amazon.com/codepipeline/getting-started/?nc=sn&loc=4)
+  * [SAM](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html)
 
 ## Extra references
 
