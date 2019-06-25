@@ -35,12 +35,13 @@ During all the plan read [The Phoenix Project](https://books.google.it/books/abo
     * [10+ Deploys Per Day: Dev and Ops Cooperation at Flickr](https://www.youtube.com/watch?v=LdOe18KhtT4)
     * [Stop Hiring DevOps Experts and Start Growing Them](https://www.youtube.com/watch?v=6m9nCtyn6kE)
     * [The Short History of DevOps](https://www.youtube.com/watch?v=o7-IuYS0iSE)
+    * [How Netflix thinks of DevOps](https://www.youtube.com/watch?v=UTKIT6STSVM)
+
 
 
 * Exercises
     * [Code School Try Git](https://try.github.io/levels/1/challenges/1)
-    * [Code School Try Ruby](https://www.codeschool.com/courses/try-ruby)
-    * [Chef essentials](https://learn.chef.io/#/)
+
 
 ### Session 2 - Cloud Computing and AWS
 
@@ -50,6 +51,9 @@ During all the plan read [The Phoenix Project](https://books.google.it/books/abo
     * [Immutable Servers](http://martinfowler.com/bliki/ImmutableServer.html)
     * [Snow flake Server](http://martinfowler.com/bliki/SnowflakeServer.html)
     * [Phoenix Server](http://martinfowler.com/bliki/PhoenixServer.html)
+    * [CloudFormation Introduction](https://aws.amazon.com/cloudformation/getting-started/)
+    * [CloudFormation Best Practices](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/best-practices.html)
+    * [Terraform Introduction](https://www.terraform.io/intro/index.html)
 
 * Videos:
     * [Amazon Web Services “Webinar Channel”](https://www.youtube.com/channel/UCT-nPlVzJI-ccQXlxjSvJmw)
@@ -58,6 +62,8 @@ During all the plan read [The Phoenix Project](https://books.google.it/books/abo
     * [CloudFormation Masterclass](https://www.youtube.com/watch?v=6R44BADNJA8)
     * [AWS re:Invent 2015 video](https://www.youtube.com/watch?v=ZBxWZ9bgd44)
     * [AWS re:Invent 2014 Getting Started with AWS Lambda](https://www.youtube.com/watch?v=UFj27laTWQA)
+    * [Terraform crash course](https://www.youtube.com/watch?v=vzNaCpRwY30)
+
 
 * Book:
     * Kanban in Action: Part 2 - the case study
@@ -67,7 +73,6 @@ During all the plan read [The Phoenix Project](https://books.google.it/books/abo
     * AWS Technical Essentials
     * [Infrastructure as code on AWS](https://github.com/xpeppers/infrastructure-as-code-on-aws)
     * [Ansible get started](https://www.ansible.com/get-started)
-    * [Test Kitchen con Ansible](https://github.com/neillturner/kitchen-ansible)
     * Replicate [Infrastructure as code on AWS](https://github.com/xpeppers/infrastructure-as-code-on-aws) with Ansible
 
 * AWS:
@@ -87,6 +92,7 @@ During all the plan read [The Phoenix Project](https://books.google.it/books/abo
     * [Introduzione continuous Integration](http://www.martinfowler.com/articles/continuousIntegration.html)
     * [Introduzione continuous Delivery](http://www.martinfowler.com/bliki/ContinuousDelivery.html)
     * [AWS Code Deploy](http://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html)
+    * [AWS Code Build](https://docs.aws.amazon.com/codebuild/latest/userguide/getting-started.html)
 
 
 * Videos:
@@ -107,14 +113,15 @@ During all the plan read [The Phoenix Project](https://books.google.it/books/abo
 * Articles and presentations:
     * TDD sull’infrastruttura
     * [Docker get started](https://docs.docker.com/mac/)
+    * [Kubernetes get started](https://kubernetes.io/docs/setup/)
     * [Docker on AWS](https://d0.awsstatic.com/whitepapers/docker-on-aws.pdf)
+    * [Kubernets on AWS](https://aws.amazon.com/kubernetes/)
 * Books:
     * Part 1 TDD by Example
     * Chapters 5-7 Test-Driven Infrastructure with Chef
 * Videos:
     * [Introduction to docker](https://training.docker.com/introduction-to-docker)
-* Exercises:
-    * Docker
+    * [Introduction to kubernetes](https://www.youtube.com/watch?v=GyRqtyAz5l8)
 
 ## Serverless
 
@@ -143,6 +150,7 @@ During all the plan read [The Phoenix Project](https://books.google.it/books/abo
 
 * Articles and presentations:
   * [Amazon ECR](https://docs.aws.amazon.com/en_us/AmazonECR/latest/userguide/ECR_GetStarted.html)
+  * [Amazon EKS](https://aws.amazon.com/eks/features/)
   * [Amazon ECS Getting Started](https://aws.amazon.com/it/ecs/getting-started/)
     * Concetti fondamentali
     * Istruzioni dettagliate
