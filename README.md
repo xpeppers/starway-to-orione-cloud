@@ -1,6 +1,6 @@
 # Starway to Orione Coast:
 
-Coast is the **C**loud **O**peration and **S**upport **T**eam
+Coast is the **C**loud **O**peration **a**nd **S**upport **T**eam
 
 ## DevOps
 
@@ -229,6 +229,7 @@ During all the plan read [The Phoenix Project](https://books.google.it/books/abo
 * [CodeAsCraft](https://codeascraft.com/) (blog dei devops di Etsy)
 * [Netflix Techblog](http://techblog.netflix.com/)
 * [Aphyr](https://aphyr.com/)
+* [Nathan Peck](https://github.com/nathanpeck/)
 
 
 ### Podcast
