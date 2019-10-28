@@ -19,16 +19,21 @@ During all the plan read [The Phoenix Project](https://books.google.it/books/abo
     * [Slides of 10+ Deploys Per Day: Dev and Ops Cooperation at Flickr](https://www.slideshare.net/jallspaw/10-deploys-per-day-dev-and-ops-cooperation-at-flickr)
     * [What is this devops thing anyway/](http://www.jedi.be/blog/2010/02/12/what-is-this-devops-thing-anyway/)
     * [DevOps / Infrastructure as Code](https://docs.google.com/presentation/d/1Xkr2ioe6cXD9jFM9ETRCm4e-NPoLi_54n_u1yCgHAA4/edit#slide=id.g9b7ec55c6_0_0)
-    * [What is this devops thing anyway](http://www.jedi.be/blog/2010/02/12/what-is-this-devops-thing-anyway/)
     * [10 practices for effective devops](http://www.drdobbs.com/architecture-and-design/top-10-practices-for-effective-devops/240149363)
     * [Deployment is just a part of dev/ops cooperation, not the whole thing](http://www.kitchensoap.com/2009/12/12/devops-cooperation-doesnt-just-happen-with-deployment/)
     * [There’s No Such Thing as a “Devops Team”](http://continuousdelivery.com/2012/10/theres-no-such-thing-as-a-devops-team/)
-
+    * [Turning student groups into effective teams](https://www.researchgate.net/publication/242350622_Turning_student_groups_into_effective_teams)
+    * 2019 - [Chaos Engineering — Part 1](https://medium.com/@adhorn/chaos-engineering-ab0cc9fbd12a)  
+        - [Chaos Monkey alternatives](https://www.gremlin.com/chaos-monkey/chaos-monkey-alternatives/docker/)
+    * 2018 - [The Agile Fluency Model](https://martinfowler.com/articles/agileFluency.html)
+    * 2018 - [The Andon Cord](https://blueboard.io/resources/amazon-andon-cord/)
+    * 2015 - [Factorish and The Twelve-Fakter App](https://tech.paulcz.net/2015/01/factorish_and_the_12_fakter_app/)
 
 * Book:
     * [Pomodoro technique](https://francescocirillo.com/products/the-pomodoro-technique)
     * Chapter 2 [Implementing Lean Software Development](https://www.amazon.it/Implementing-Lean-Software-Development-Addison-Wesley-ebook/dp/B00HNB3VQE)
     * Chaters 1-3 of [Extreme Programming] Explained(https://www.amazon.it/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
+     * 2019 - [The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data](https://www.amazon.it/dp/B07QT9QR41/ref=cm_sw_r_tw_dp_U_x_WHRSDbW3V5M6P)
 
 * Video
 
